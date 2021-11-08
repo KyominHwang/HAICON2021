@@ -4,20 +4,20 @@ Dacon HAICON2021
 
 - Path 정보   
         1. .ipynb Path   
-		./data 파일 밖에 저장합니다.   
-		sample path : ./    
+		- ./data 파일 밖에 저장합니다.   
+		- sample path : ./    
 	2. Data Path         
-		traing data : ./data/train          
-		validation data : ./data/validation/         
-		test data : ./data/test         
+		- traing data : ./data/train          
+		- validation data : ./data/validation/         
+		- test data : ./data/test         
 	3. Model Path          
-		model 저장 경로 : ./data/model.pt        
+		- model 저장 경로 : ./data/model.pt        
 	4. Submission Path                   
-		submission 저장 경로 : ./data/                
-		sample path : ./data/sample_submission.csv              
-		최종제출 submisstion : ./data/submission_final.csv                   
+		- submission 저장 경로 : ./data/                
+		- sample path : ./data/sample_submission.csv              
+		- 최종제출 submisstion : ./data/submission_final.csv                   
 	5. TaPR Lib path                  
-		whl file : ./data/eTaPR-1.12-py3-none-any.whl                   
+		- whl file : ./data/eTaPR-1.12-py3-none-any.whl                   
     
     
 - 실행방법
