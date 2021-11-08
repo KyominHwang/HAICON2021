@@ -3,7 +3,7 @@ Dacon HAICON2021
 
 
 - Path 정보   
-	.ipynb Path   
+        .ipynb Path   
 		./data 파일 밖에 저장합니다.   
 		sample path : ./    
 	Data Path         
